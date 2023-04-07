@@ -1,0 +1,9 @@
+DiscrMin,Signed BIN16,1
+DiscrMax,Signed BIN16,1
+SCL_X,Signed BIN16[0..6],7
+SCL_Y,Signed BIN16[0..6],7
+Vmin,Real(32bit),2
+
+Vmax,Real(32bit),2
+ScadaCoeff,Real(32bit),2
+Params,Signed BIN16,1
